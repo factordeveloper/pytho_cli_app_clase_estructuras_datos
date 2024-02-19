@@ -1,0 +1,32 @@
+[
+    {
+        "id": 5,
+        "nombre": "juan",
+        "telefono": "648654",
+        "correo": "juan@mail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "juan",
+        "telefono": "584864",
+        "correo": "juan@mail.com"
+    },
+    {
+        "id": 3,
+        "nombre": "juan",
+        "telefono": "584864",
+        "correo": "juan@mail.com"
+    },
+    {
+        "id": 4,
+        "nombre": "juan",
+        "telefono": "584864",
+        "correo": "juan@mail.com"
+    },
+    {
+        "id": 5,
+        "nombre": "juan",
+        "telefono": "584864",
+        "correo": "juan@mail.com"
+    }
+]
